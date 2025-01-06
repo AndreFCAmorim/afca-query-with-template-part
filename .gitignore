@@ -28,3 +28,8 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# composer
+vendor/*
+!vendor/autoload.php
+!vendor/composer/
